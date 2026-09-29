@@ -14,5 +14,6 @@ This script was originally built during my placement at Rolls‑Royce Motor Cars
 The uploaded code and files in this Repo are not identical to the files made during my placement with Rolls Royce. I've refactored the script to remove all sensitive identifiers and replaced them with generic diagnostic markers, so the project can be shared publicly without exposing proprietary structures.
 
 # Demonstration 
-<img width="550" height="655" alt="image" src="https://github.com/user-attachments/assets/1fdacd22-e115-4463-876a-08f7e4205bef" />
+<img width="350" height="455" alt="image" src="https://github.com/user-attachments/assets/1fdacd22-e115-4463-876a-08f7e4205bef" /> <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/de05fabb-49a8-4dd0-801c-d5ee133be9c8" />
+
 
