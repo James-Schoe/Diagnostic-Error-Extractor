@@ -8,12 +8,13 @@ A lightweight PowerShell script developed during my placement at Rolls‑Royce M
 - Produces a structured CSV for reporting or further processing
 
 # Background
-This script was originally built during my placement at Rolls‑Royce Motor Cars and served as a practical project to learn PowerShell from first principals. Although I used AI as a learning aid, I intentionally wrote the logic myself and learned PowerShell from official documentation to properly understand the language rather than rely on automated code generation.
+This script was originally built during my placement at Rolls‑Royce Motor Cars and served as a practical project to learn PowerShell from first principals. Although I used AI as a learning aid, I intentionally wrote the logic myself and learned PowerShell from official documentation to properly understand the language rather than rely on automated code generation. By taking the time to learn the fundamentals of PowerShell before tackling this project, my engagement with the script writing process was enhanced and my resentlant understanding of PowerShell moving forward has been much greater. 
 
 # Changes Made 
 The uploaded code and files in this Repo are not identical to the files made during my placement with Rolls Royce. I've refactored the script to remove all sensitive identifiers and replaced them with generic diagnostic markers, so the project can be shared publicly without exposing proprietary structures.
 
 # Demonstration 
+The original code was applied to much larger files in practice. However, for demonstration purposes I've reduced the contents of the files and changed all items within the files to generic terms, protecting Rolls Royce data in the process:
 <img width="350" height="455" alt="image" src="https://github.com/user-attachments/assets/1fdacd22-e115-4463-876a-08f7e4205bef" /> <img width="400" height="455" alt="image" src="https://github.com/user-attachments/assets/d54a8a2a-d09d-41c4-8ee0-f774534accc2" />
 
 
