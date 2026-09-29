@@ -10,9 +10,7 @@ A lightweight PowerShell script developed during my placement at Rolls‑Royce M
 # Background
 This script was originally built during my placement at Rolls‑Royce Motor Cars and served as a practical project to learn PowerShell from first principals. Although I used AI as a learning aid, I intentionally wrote the logic myself and learned PowerShell from official documentation to properly understand the language rather than rely on automated code generation.
 
-# Planned Improvements
-The current version still contains patterns tailored to internal file formats. I’m refactoring the script to remove all sensitive identifiers and replace them with generic diagnostic markers so the project can be shared publicly without exposing proprietary structures.
+# Changes Made 
+The uploaded code and files in this Repo are not identical to the files made during my placement with Rolls Royce. I've refactored the script to remove all sensitive identifiers and replaced them with generic diagnostic markers, so the project can be shared publicly without exposing proprietary structures.
 
-# Usage
-This repository is view‑only.
-Please do not reuse or distribute the script without permission.
+
