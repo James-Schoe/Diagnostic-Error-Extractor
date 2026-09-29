@@ -1,4 +1,4 @@
-# Diagnostic-Error-Extractor-PowerShell-
+# Diagnostic Error Extractor (PowerShell)
 A lightweight PowerShell script developed during my placement at Rolls‑Royce Motor Cars to automate the extraction of diagnostic error information from large sets of vehicle data files. The tool replaces slow manual searching with a fast, structured workflow that outputs a clean CSV ready for analysis.
 
 # Features
